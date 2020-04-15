@@ -2,6 +2,7 @@
 
 * [Competitive Programming](#competitive-programming)
 * [Data science](#data-science)
+* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
@@ -9,6 +10,7 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [Caribbean Online Judge](http://coj.uci.cu)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codecombat](https://codecombat.com)
@@ -21,12 +23,11 @@
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
-* [Hello World Open](https://helloworldopen.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
+* [LeetCode](https://leetcode.com)
 * [Microcorruption](https://microcorruption.com/login)
-* [Saratov State University](http://acm.sgu.ru/index.php)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 
@@ -36,15 +37,20 @@
 * [Kaggle](https://www.kaggle.com)
 
 
+### Information security
+
+* [CTFtime](https://ctftime.org)
+
+
 ### Problem Sets
 
+* [500 Data structures and algorithms interview questions and their solutions in C++](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codeforces](http://codeforces.com/problemset)
-* [CodeHunt](https://www.codehunt.com)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Exercism](http://exercism.io)
@@ -53,6 +59,7 @@
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
+* [Interactive Coding Challenge](https://github.com/donnemartin/interactive-coding-challenges)
 * [InterviewBit](https://www.interviewbit.com)
 * [Kattis](https://open.kattis.com)
 * [Leetcode](https://leetcode.com)
@@ -60,7 +67,7 @@
 * [PEG Judge](http://wcipeg.com)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
-* [ProblemBook.NET](http://problembook.net/content/en/index.html)
+* [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)
